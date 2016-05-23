@@ -1,0 +1,70 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300);
+body {
+
+  font-family: Arial;
+    color: #403736;
+    left: 30%;
+
+}
+
+
+header{
+
+  height: 70px;
+  width: 100%;
+  background: black;
+  border-bottom: 15px solid red;
+  cursor: pointer;
+  font-size: 7px;
+  -moz-transition: all, 0.2s, ease-out;
+  -o-transition: all, 0.2s, ease-out;
+  -webkit-transition: all, 0.2s, ease-out;
+  transition: all, 0.2s, ease-out;
+  color: red;
+  margin-top: 20px;
+}
+
+.play, .tiempo, .volumen, .salir, .objetivo, .ayuda, .info, .follow_me_github, .follow_me_twitter, .follow_me_facebook  {
+
+  margin-left: 8%;
+  margin-top: 20px;
+
+
+  display: inline-block;
+}
+#escenario
+{
+  
+  margin:0 20%;
+  position: absolute;
+}
+
+.objetivo{
+
+   
+  color:white;
+
+  font-weight: bold;
+  font-size: 33px;
+  font-family: Arial;
+
+
+  
+
+}
+
+.huevoPascua
+{
+  color: white;
+  background-color: red;
+  font-weight: bold;
+  border-radius: 15%;
+}
+
+
+
+
+
+
+
+
